@@ -12,4 +12,4 @@ The audit results are correct, but we strongly recommend that contract owners DO
 
 In this way Ube and Almond contracts are centralized in nature, and cannot be decentralized.
 
- 
+Author: https://wpsmartcontracts.com/audits/ 
