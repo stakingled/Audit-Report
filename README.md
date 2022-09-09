@@ -1,3 +1,14 @@
+The smart contracts used ( Ube Stakes & Almond Stakes) are audited by the software provider, 
+Any new contract deploy by us, is an exact copy of these contracts.
+
+EtherAuthority was contracted by software provider team to perform the Security audit 
+of some of their most popular solidity smart contracts code. The audit has been performed 
+using manual analysis as well as using automated software tools. This report presents 
+all the findings regarding the audit performed on April, 2022.
+
+DOWNLOAD SECURITY REPORT: https://wpsmartcontracts.com/audits/WP_Smart_Contracts_Protocol_Smart_Contracts_Security_Audit_Report.pdf
+
+
 Why is the audit result “Secured” and not “Well-Secured”?
 
 The EtherAuthority team states that to reach the level of "well-secured", the contract must not have any human influence, meaning fully decentralized with no owner control.
