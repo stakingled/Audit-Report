@@ -6,7 +6,7 @@ of some of their most popular solidity smart contracts code. The audit has been 
 using manual analysis as well as using automated software tools. This report presents 
 all the findings regarding the audit performed on April, 2022.
 
-DOWNLOAD SECURITY REPORT: https://wpsmartcontracts.com/audits/WP_Smart_Contracts_Protocol_Smart_Contracts_Security_Audit_Report.pdf
+DOWNLOAD SECURITY REPORT: https://bit.ly/3xbiBiS
 
 
 Why is the audit result “Secured” and not “Well-Secured”?
